@@ -101,18 +101,6 @@ aarav = {
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| AtherStrike Car | Regulation-compliant F1 in Schools car — Python API scripted, CFD-optimized aero package, going to nationals | Fusion 360, Python |
-| Batman Dashboard | School induction task turned full React app. Desi humor built into the UI. Genuinely unhinged. | React, Tailwind, Router |
-| Cyber Congress Site | 5-page glassmorphism cyberpunk site for school cybersec society. Has easter eggs. | HTML, CSS, JS |
-| AtherStrike Website | Team site with custom sponsor tier naming, socials page, glassmorphism layout | React, Tailwind |
-| SYNDICATION | Cyberpunk keyboard redesign + ergonomic mouse peripheral scene, full Blender Python scripting | Blender, Python |
-| DesignText | Text styling tool | Python |
-
----
 
 <div align="center">
 
