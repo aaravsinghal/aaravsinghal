@@ -25,16 +25,14 @@ const AaravSinghal = () => {
 
   const profile = {
     school:    "Amity International School, Gurugram",
-    role:      "CAD Engineer @ AtherStrike | Web Dev | Cybersec",
+    role:      "CAD Engineer @ AtherStrike | Web Dev | AvGeek",
     societies: ["AtherStrike (F1 in Schools)", "Cygna Space Society"],
     stack:     ["React", "Tailwind", "Python", "Fusion 360", "Blender", "JS"],
-    building:  "F1 car body — Python-scripted, CFD-optimized, nationals-bound",
-    also:      "Batman dashboard with desi humor and too much personality",
-    dream:     "Left seat of a commercial airliner",
+    dream:     "Flight Deck of a commercial airliner",
   };
 
   const funFact = () =>
-    "Built a Fusion 360 F1 car from scratch before I could parallel park.";
+    "Dreaming of the flight deck, building code in the meantime.";
 
   return (
     <div className="dev-card">
@@ -107,8 +105,7 @@ export default AaravSinghal;
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaravsinghal&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FF4444&area_color=00C9A7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- SNAKE — set up GitHub Action to generate this: https://github.com/Platane/snk -->
-![snake gif](https://raw.githubusercontent.com/aaravsinghal/aaravsinghal/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
@@ -143,18 +140,5 @@ export default AaravSinghal;
 </div>
 
 ---
-
-## Projects
-
-| Project | What it actually is | Stack |
-|---|---|---|
-| **AtherStrike Car** | Reg-compliant F1 in Schools car — Python API scripted, CFD aerodynamics, going to nationals | Fusion 360, Python |
-| **Batman Dashboard** | School induction task turned full React app. Desi humor, custom armory section, way too much personality | React, Tailwind, Router |
-| **Cyber Congress Site** | 5-page glassmorphism cyberpunk site for school cybersec society. Has easter eggs | HTML, CSS, JS |
-| **AtherStrike Website** | Team site with custom sponsor tier names and glassmorphism layout | React, Tailwind |
-| **SYNDICATION** | Cyberpunk keyboard + ergonomic mouse scene, full Python-scripted Blender workflow | Blender, Python |
-
----
-
 <!-- FOOTER WAVE -->
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer&text=currently%3A%20nationals%20prep.%20next%3A%20flight%20school.&fontSize=14&fontColor=ffffff&animation=twinkling&fontAlignY=65)](https://github.com/aaravsinghal)
