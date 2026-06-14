@@ -1,5 +1,5 @@
 <!-- WAVE HEADER -->
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Aarav%20Singhal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=aaravsinghal%20%2F%2F%20CAD%20%C2%B7%20Dev%20%C2%B7%20Future%20Pilot&descAlignY=54&descSize=16)](https://github.com/aaravsinghal)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Aarav%20Singhal&fontSize=42&fontColor=fff&fontAlignY=32&desc=aaravsinghal%20%2F%2F%20CAD%20%C2%B7%20Dev%20%C2%B7%20Future%20Pilot&descAlignY=54&descSize=16)](https://github.com/aaravsinghal)
 
 <div align="center">
 
