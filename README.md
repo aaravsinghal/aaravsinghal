@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Amity%20International-Gurugram-A960FF?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/AtherStrike-CAD%20Engineer-FF4444?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Cyber%20Congress-Member-00C9A7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Cygna%20Society-Member-00C9A7?style=flat-square&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=aaravsinghal&color=A960FF&style=flat-square&label=Views)
 
 </div>
