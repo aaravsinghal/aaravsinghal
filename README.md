@@ -18,10 +18,8 @@ aarav = {
     "school"       : "Amity International School, Gurugram",
     "current"      : "CAD Engineer @ AtherStrike — F1 in Schools, Nationals bound",
     "stack"        : ["React", "Tailwind", "Python", "Fusion 360", "Blender", "JS"],
-    "societies"    : ["AtherStrike", "Cyber Congress"],
-    "dream"        : "Left seat of a commercial airliner",
-    "building_now" : "F1 car body with Python API scripting + CFD aerodynamics",
-    "also_building": "A Batman dashboard with desi humor and an armory section",
+    "societies"    : ["AtherStrike", "Cygna Space Society"],
+    "dream"        : "Commercial Pilot",
 }
 ```
 
